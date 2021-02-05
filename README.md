@@ -9,3 +9,7 @@ No Class.
 ## Week 2 (January 29th)
 
 Introduction to time efficiency analysis and mathematical proofs.
+
+## Week 3 (February 5th)
+
+Overview of the properties of asymptotic notations, comparing orders of growth using limits and time efficiency calculations using summation formulae.
