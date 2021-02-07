@@ -12,4 +12,4 @@ Introduction to time efficiency analysis and mathematical proofs.
 
 ## Week 3 (February 5th)
 
-Overview of the properties of asymptotic notations, comparing orders of growth using limits and time efficiency calculations using summation formulae. Please revise the basic [properties of logarithms](https://github.com/azeldaniel/COMP3601-2021/tree/main/Week%203) and the [summation formulas and rules](https://github.com/azeldaniel/COMP3601-2021/tree/main/Week%203). Pictures adopted from Levitin, Introduction to the Design & Analysis of Algorithms, 475–76.
+Overview of the properties of asymptotic notations, comparing orders of growth using limits and time efficiency calculations using summation formulae. Please revise the basic [properties of logarithms](https://github.com/azeldaniel/COMP3601-2021/tree/main/Week%203/extra/) and the [summation formulas and rules](https://github.com/azeldaniel/COMP3601-2021/tree/main/Week%203/extra/). Pictures adopted from Levitin, Introduction to the Design & Analysis of Algorithms, 475–76.
