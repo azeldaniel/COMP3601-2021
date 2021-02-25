@@ -22,11 +22,14 @@ Brute force approaches and their time efficiency calculations.
 
 Decrease and conquer approaches and their time efficiency calculations (plus an introduction to Master's theorem).
 
+## Week 6 (February 26th)
+
+Divide and conquer approaches and their time efficiency calculations.
+
 ---
 
 Please revise the basic [properties of logarithms](https://github.com/azeldaniel/COMP3601-2021/tree/main/Week%203/extra/) and the [summation formulas and rules](https://github.com/azeldaniel/COMP3601-2021/tree/main/Week%203/extra/) [[1]](#1).
 
 ## References
 
-<a id="1">[1]</a> Levitin, Introduction to the Design & Analysis of Algorithms, 475–76
-
+<a id="1">[1]</a> Levitin, Introduction to the Design & Analysis of Algorithms, 475–476
