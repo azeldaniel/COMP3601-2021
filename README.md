@@ -30,6 +30,10 @@ Divide and conquer approaches and their time efficiency calculations.
 
 Deriving recurrence relations. Transform and conquer approaches and their time efficiency calculations.
 
+## Week 8 (March 12th)
+
+Dynamic programming algorithms.
+
 ---
 
 Please revise the basic [properties of logarithms](https://github.com/azeldaniel/COMP3601-2021/tree/main/Week%203/extra/) and the [summation formulas and rules](https://github.com/azeldaniel/COMP3601-2021/tree/main/Week%203/extra/) [[1]](#1).
