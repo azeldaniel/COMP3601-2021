@@ -34,7 +34,7 @@ Deriving recurrence relations. Transform and conquer approaches and their time e
 
 Dynamic programming algorithms.
 
-## Week 9 (March 19th)Ø
+## Week 9 (March 19th)
 
 Greedy approach.
 
