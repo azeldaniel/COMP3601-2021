@@ -42,6 +42,10 @@ Greedy approach.
 
 Backtracking and branch-and-bound techniques.
 
+## Week 11 (April 2nd)
+
+No class. Review [this](https://github.com/azeldaniel/COMP3601-2021/blob/main/Week%2010/Tutorial%209%20-%20Sample%20Solutions.pdf) instance of the 0/1 branch-and-bound knapsack problem from Week 10.
+
 ---
 
 Please revise the basic [properties of logarithms](https://github.com/azeldaniel/COMP3601-2021/tree/main/Week%203/extra/) and the [summation formulas and rules](https://github.com/azeldaniel/COMP3601-2021/tree/main/Week%203/extra/) [[1]](#1).
