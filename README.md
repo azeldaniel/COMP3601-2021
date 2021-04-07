@@ -1,3 +1,7 @@
+_Notice: This repo will be archived on May 14th, 2021. All solutions will be removed._
+
+---
+
 # COMP3601-2021
 
 This repository contains tutorial material for Design and Analysis of Algorithms at the University of the West Indies, St. Augustine. Note that this repository created for material sharing convenience, and all solutions may be redacted at the end of the academic year in 2021.
@@ -45,6 +49,10 @@ Backtracking and branch-and-bound techniques.
 ## Week 11 (April 2nd)
 
 No class. Review [this](https://github.com/azeldaniel/COMP3601-2021/blob/main/Week%2010/Tutorial%209%20-%20Sample%20Solutions.pdf) instance of the 0/1 branch-and-bound knapsack problem from Week 10.
+
+## Week 12 (April 9th)
+
+Branch-and-bound technique and space-and-time trade-offs (comparison and distribution counting).
 
 ---
 
